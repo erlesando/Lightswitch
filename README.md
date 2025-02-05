@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -37,3 +38,6 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 # Lightswitch
+=======
+"# Lightswitch" 
+>>>>>>> 34d1b1c6e38d821a034b1ae5fbe46fd0f55854f1
