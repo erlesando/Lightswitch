@@ -34,7 +34,6 @@
 	off
 </button>
 <br>
-<a href="/calculator">Calculator</a>
 
 <style>
     #lightswitch{
